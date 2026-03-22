@@ -1,0 +1,14 @@
+*.vsidx
+GeradorAvisoReuniao/.vs/GeradorAvisoReuniao.slnx/v18/.suo
+GeradorAvisoReuniao/GeradorAvisoReuniao/obj/project.nuget.cache
+*.targets
+*.editorconfig
+GeradorAvisoReuniao/GeradorAvisoReuniao/obj/Debug/net8.0-windows/GeradorAvisoReuniao.GlobalUsings.g.cs
+*.json
+GeradorAvisoReuniao/GeradorAvisoReuniao/GeradorAviso.resx
+*.user
+GeradorAvisoReuniao/GeradorAvisoReuniao/obj/Debug/net8.0-windows/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+GeradorAvisoReuniao/GeradorAvisoReuniao/obj/Debug/net8.0-windows/GeradorAvisoReuniao.AssemblyInfo.cs
+GeradorAvisoReuniao/GeradorAvisoReuniao/obj/Debug/net8.0-windows/GeradorAvisoReuniao.AssemblyInfoInputs.cache
+*.cache
+GeradorAvisoReuniao/GeradorAvisoReuniao/obj/GeradorAvisoReuniao.csproj.nuget.g.props
